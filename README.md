@@ -1,3 +1,2 @@
 # Analysisonmass
-Zhihao Gao
-Email: zhihao.gao@physics.uu.se
+#Author: Zhihao Gao Email: zhihao.gao@physics.uu.se
